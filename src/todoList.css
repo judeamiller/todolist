@@ -28,4 +28,9 @@
     padding: 15px;
     margin-bottom: 15px;
     border-radius: 6px;
+    list-style: none;
+}
+
+ul.todoList {
+    padding: 0;
 }
